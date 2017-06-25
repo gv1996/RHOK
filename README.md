@@ -1,2 +1,3 @@
 # RHOK
-Predicting deficiency of a plant based on color of leaves.
+Predicting deficiency of a plant based on NDVI. This was developed in a hackathon.
+
